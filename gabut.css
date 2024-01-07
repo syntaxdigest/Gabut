@@ -1,8 +1,8 @@
-.parent {
+.parent{
     color: red;
     background-color: white;
     font-size: 24rem;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman',Times,serif;
 }
 
 div {
@@ -12,3 +12,4 @@ div {
     width: 100px;
     z-index: 100;
 }
+
